@@ -8,12 +8,12 @@ Bu uygulama tıbbi bir tavsiye niteliği taşımaz. Uygulama içerisinde sunulan
 
 Lütfen aşağıdaki maddeleri dikkatle okuyunuz:
 
-    Teşhis ve Tedavi: Herhangi bir sağlık sorununuz için mutlaka profesyonel bir tıp doktoruna başvurunuz. Bu uygulamadaki bilgileri bir doktorun teşhisi veya tedavisi yerine kullanmayınız.
+Teşhis ve Tedavi: Herhangi bir sağlık sorununuz için mutlaka profesyonel bir tıp doktoruna başvurunuz. Bu uygulamadaki bilgileri bir doktorun teşhisi veya tedavisi yerine kullanmayınız.
 
-    Kronik Hastalıklar ve İlaç Etkileşimi: Düzenli ilaç kullanıyorsanız, kronik bir rahatsızlığınız (tansiyon, şeker, kalp vb.) varsa veya hamilelik/emzirme dönemindeyseniz, herhangi bir bitkisel yöntemi denemeden önce mutlaka doktorunuza danışınız. Bitkiler, kullandığınız ilaçlarla ciddi etkileşimlere girebilir.
+Kronik Hastalıklar ve İlaç Etkileşimi: Düzenli ilaç kullanıyorsanız, kronik bir rahatsızlığınız (tansiyon, şeker, kalp vb.) varsa veya hamilelik/emzirme dönemindeyseniz, herhangi bir bitkisel yöntemi denemeden önce mutlaka doktorunuza danışınız. Bitkiler, kullandığınız ilaçlarla ciddi etkileşimlere girebilir.
 
-    Alerjik Reaksiyonlar: Doğal olan her şey her zaman "güvenli" demek değildir. Bazı bitkiler şiddetli alerjik reaksiyonlara veya yan etkilere yol açabilir.
+Alerjik Reaksiyonlar: Doğal olan her şey her zaman "güvenli" demek değildir. Bazı bitkiler şiddetli alerjik reaksiyonlara veya yan etkilere yol açabilir.
 
-    Sorumluluk Reddi: Uygulamanın kullanımından doğabilecek herhangi bir yan etki, sağlık sorunu veya olumsuz durumdan uygulama geliştiricisi sorumlu tutulamaz.
+Sorumluluk Reddi: Uygulamanın kullanımından doğabilecek herhangi bir yan etki, sağlık sorunu veya olumsuz durumdan uygulama geliştiricisi sorumlu tutulamaz.
 
-    Debian tabanlı sistemler için .deb dosyası indirme linki: https://github.com/03tekno/kainat-eczanesi/raw/refs/heads/main/kainat-eczanesi_1.0.0.deb
+Debian tabanlı sistemler için .deb dosyası indirme linki: https://github.com/03tekno/kainat-eczanesi/raw/refs/heads/main/kainat-eczanesi_1.0.0.deb
