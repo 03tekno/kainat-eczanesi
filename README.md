@@ -17,3 +17,5 @@ Alerjik Reaksiyonlar: Doğal olan her şey her zaman "güvenli" demek değildir.
 Sorumluluk Reddi: Uygulamanın kullanımından doğabilecek herhangi bir yan etki, sağlık sorunu veya olumsuz durumdan uygulama geliştiricisi sorumlu tutulamaz.
 
 Debian tabanlı sistemler için .deb dosyası indirme linki: https://github.com/03tekno/kainat-eczanesi/raw/refs/heads/main/kainat-eczanesi_1.0.0.deb
+
+![screenshot](resim.png "screenshot")
