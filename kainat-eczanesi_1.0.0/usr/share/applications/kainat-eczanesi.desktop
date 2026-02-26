@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Kainat Eczanesi
+Comment=Bitkisel Şifa Rehberi
+Exec=kainat-eczanesi
+Icon=kainat-eczanesi
+Terminal=false
+Type=Application
+Categories=Education;

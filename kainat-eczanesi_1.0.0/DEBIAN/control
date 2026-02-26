@@ -1,0 +1,9 @@
+Package: kainat-eczanesi
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Mobilturka
+Depends: python3, python3-pyqt6
+Description: Kainat Eczanesi - Bitkisel Şifa Rehberi.
+ Pardus 25 için geliştirilmiş bitki ve fayda sorgulama uygulaması.
